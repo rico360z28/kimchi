@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Fedora 28",
+        "os_distro": "fedora",
+        "os_arch": "x86_64",
+        "os_version": "28",
+        "path": "http://mirrors.kernel.org/fedora/releases/28/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-28-1.1.iso"
+    }
+]

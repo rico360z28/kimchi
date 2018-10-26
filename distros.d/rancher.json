@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Rancher 1.42",
+        "os_distro": "rancher",
+        "os_arch": "x86_64",
+        "os_version": "1.42",
+        "path": "https://github.com/rancher/os/releases/download/v1.4.2/rancheros.iso"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "name": "gentoo-20160514",
+        "os_distro": "gentoo",
+        "os_arch": "x86_64",
+        "os_version": "20160514",
+        "path": "http://distfiles.gentoo.org/releases/amd64/20160514/livedvd-amd64-multilib-20160514.iso"
+    },
+    {
+        "name": "gentoo-20170118",
+        "os_distro": "gentoo",
+        "os_arch": "x86_64",
+        "os_version": "20170118",
+        "path": "http://distfiles.gentoo.org/releases/amd64/20170118/livedvd-amd64-hardened-nomultilib-20170118.iso"
+    }
+]

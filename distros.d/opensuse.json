@@ -1,0 +1,9 @@
+[
+    {
+        "name": "opensuse-15.1",
+        "os_distro": "opensuse",
+        "os_arch": "x86_64",
+        "os_version": "15.1",
+        "path": "https://mirrors.edge.kernel.org/opensuse/distribution/leap/15.1/iso/openSUSE-Leap-15.1-DVD-x86_64-Current.iso"
+    }
+]

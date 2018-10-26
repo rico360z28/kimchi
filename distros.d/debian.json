@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Debian jessie",
+        "os_distro": "debian",
+        "os_arch": "x86_64",
+        "os_version": "8.11",
+        "path": "https://cdimage.debian.org/cdimage/archive/8.11.0/amd64/iso-cd/debian-8.11.0-amd64-CD-1.iso"
+    },
+    {
+        "name": "Debian stretch",
+        "os_distro": "debian",
+        "os_arch": "x86_64",
+        "os_version": "9.5",
+        "path": "https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-9.5.0-amd64-gnome.iso"
+    }
+]
