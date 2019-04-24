@@ -3,7 +3,7 @@
         "name": "Kali",
         "os_distro": "debian",
         "os_arch": "x86_64",
-        "os_version": "2018.3a",
-        "path": "http://cdimage.kali.org/kali-2018.3a/kali-linux-2018.3a-amd64.iso"
+        "os_version": "2019.1a",
+        "path": "http://cdimage.kali.org/kali-2019.1a/kali-linux-2019.1a-amd64.iso"
     }
 ]
