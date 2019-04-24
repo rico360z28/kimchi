@@ -4,34 +4,27 @@
         "os_distro": "ubuntu",
         "os_arch": "x86_64",
         "os_version": "16.04",
-        "path": "http://old-releases.ubuntu.com/releases/16.04.4/ubuntu-16.04.4-server-amd64.iso"
+        "path": "http://releases.ubuntu.com/16.04/ubuntu-16.04.6-server-amd64.iso"
     },
-    {
-        "name": "Ubuntu Server 16.04 (Xenial Xerus)",
-        "os_distro": "ubuntu",
-        "os_arch": "ppc64le",
-        "os_version": "16.04",
-        "path": "http://cdimages.ubuntu.com/releases/16.04/release/ubuntu-16.04-server-ppc64el.iso"
-    },
-	{
+        {
         "name": "Ubuntu Desktop 16.04 (Xenial Xerus)",
         "os_distro": "ubuntu",
         "os_arch": "x86_64",
         "os_version": "16.04",
-        "path": "http://old-releases.ubuntu.com/releases/16.04.4/ubuntu-16.04.4-desktop-amd64.iso"
+        "path": "http://releases.ubuntu.com/16.04/ubuntu-16.04.6-desktop-amd64.iso"
     },
 	{
         "name": "Ubuntu Server 18.04 (Bionic Beaver)",
         "os_distro": "ubuntu",
         "os_arch": "x86_64",
         "os_version": "18.04",
-        "path": "http://cdimages.ubuntu.com/releases/18.04.1/release/ubuntu-18.04.1-server-amd64.iso"
+        "path": "http://cdimages.ubuntu.com/releases/18.04/release/ubuntu-18.04.2-server-amd64.iso"
     },
-    {
+        {
         "name": "Ubuntu Desktop 18.04 (Bionic Beaver)",
         "os_distro": "ubuntu",
         "os_arch": "x86_64",
         "os_version": "18.04",
-        "path": "http://releases.ubuntu.com/18.04.1/ubuntu-18.04.1-desktop-amd64.iso?"
+        "path": "http://releases.ubuntu.com/18.04/ubuntu-18.04.2-desktop-amd64.iso"
     }
 ]
