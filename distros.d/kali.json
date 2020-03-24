@@ -1,9 +1,9 @@
 [
     {
         "name": "Kali",
-        "os_distro": "debian",
+        "os_distro": "Kali",
         "os_arch": "x86_64",
-        "os_version": "2019.1a",
-        "path": "http://cdimage.kali.org/kali-2019.1a/kali-linux-2019.1a-amd64.iso"
+        "os_version": "2020.1b",
+        "path": "http://cdimage.kali.org/kali-2020.1b/kali-linux-2020.1b-installer-amd64.iso"
     }
 ]
