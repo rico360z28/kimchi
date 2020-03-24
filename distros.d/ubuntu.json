@@ -18,13 +18,13 @@
         "os_distro": "ubuntu",
         "os_arch": "x86_64",
         "os_version": "18.04",
-        "path": "http://cdimages.ubuntu.com/releases/18.04/release/ubuntu-18.04.2-server-amd64.iso"
+        "path": "http://cdimages.ubuntu.com/releases/18.04/release/ubuntu-18.04.4-server-amd64.iso"
     },
 	{
         "name": "Ubuntu Desktop 18.04 (Bionic Beaver)",
         "os_distro": "ubuntu",
         "os_arch": "x86_64",
         "os_version": "18.04",
-        "path": "http://releases.ubuntu.com/18.04/ubuntu-18.04.2-desktop-amd64.iso"
+        "path": "http://releases.ubuntu.com/18.04/ubuntu-18.04.4-desktop-amd64.iso"
     }
 ]
